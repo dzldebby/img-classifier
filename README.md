@@ -2,13 +2,18 @@
 
 This is an Image classifier application trained using the fast.ai library. The code was adapted from ramgendeploy's [Unsplash100Labels] (https://github.com/ramgendeploy/Unsplash100Labels). Either upload your own image, or randomly generate an image from Unsplash.
  
-## Frontend
+## Installation
 
-Built on Vue.js 
+#### Built on Vue.js 
+
+1. Install Dependencies 
+```git clone 
+npm install
+```
 
 ## Backend
 
-Flask API 
+REST API built using Flask 
 
 ## Hosting
 
