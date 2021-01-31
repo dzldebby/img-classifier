@@ -84,14 +84,14 @@ export default {
     },
 
 
-    onFileUpload(event){
-      this.file = event.target.files[0]
-      const preview = document.getElementById("img1");
-      preview.src="";
-      const preview2 = document.getElementById("img2");
-      preview2.src="";
-      const abc = document.getElementById('file-input');
-    },
+    // onFileUpload(event){
+    //   this.file = event.target.files[0]
+    //   const preview = document.getElementById("img1");
+    //   preview.src="";
+    //   const preview2 = document.getElementById("img2");
+    //   preview2.src="";
+    //   const abc = document.getElementById('file-input');
+    // },
 
     previewFile(){
       const preview = document.getElementById("img1");
