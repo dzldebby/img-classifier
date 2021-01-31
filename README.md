@@ -7,7 +7,8 @@ This is an Image classifier application trained using the fast.ai library. The c
 #### Built on Vue.js 
 
 1. Install Dependencies 
-```git clone 
+```
+git clone https://github.com/dzldebby/img-classifier.git
 npm install
 ```
 
